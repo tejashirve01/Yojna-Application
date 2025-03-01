@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424165333674",
+    "project_id": "aissms-4898d",
+    "storage_bucket": "aissms-4898d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424165333674:android:ad49fa8f67ac7d67ecced3",
+        "android_client_info": {
+          "package_name": "com.example.google_maps_yt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYv9mq1y9ODzXKXv2Casptgs-H1UKZ3as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
